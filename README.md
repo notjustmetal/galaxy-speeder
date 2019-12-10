@@ -9,7 +9,7 @@
 Galaxy Speeder is a retro style shoot 'em up video game made in Game Maker Studio. 
 
 <p align="center">
-<img style="display: blocks; margin: auto" src="https://github.com/notjustmetal/galaxy-speeder/blob/master/readmeImages/image1.gif" width=250> <img style="display: blocks; margin: auto" src="https://github.com/notjustmetal/galaxy-speeder/blob/master/readmeImages/image2.gif" width=250> <img style="display: blocks; margin: auto" src="https://github.com/notjustmetal/galaxy-speeder/blob/master/readmeImages/image3.gif" width=250>
+<img style="display: blocks; margin: auto" src="https://github.com/notjustmetal/galaxy-speeder/blob/master/readmeImages/image1.gif" width=280> <img style="display: blocks; margin: auto" src="https://github.com/notjustmetal/galaxy-speeder/blob/master/readmeImages/image2.gif" width=280> <img style="display: blocks; margin: auto" src="https://github.com/notjustmetal/galaxy-speeder/blob/master/readmeImages/image3.gif" width=280>
 </p>
 
 ## Built With
